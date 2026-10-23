@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.AnimeRift" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/cyan_primary</item>
+        <item name="colorPrimaryVariant">@color/purple_primary</item>
+        <item name="colorSecondary">@color/purple_primary</item>
+        <item name="android:statusBarColor">@color/black_bg</item>
+        <item name="android:navigationBarColor">@color/black_bg</item>
+        <item name="android:windowBackground">@color/black_bg</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="materialButtonStyle">@style/Widget.AnimeRift.Button</item>
+    </style>
+
+    <style name="Widget.AnimeRift.Button" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@color/cyan_primary</item>
+        <item name="android:textColor">@color/black_bg</item>
+        <item name="cornerRadius">16dp</item>
+    </style>
+</resources>

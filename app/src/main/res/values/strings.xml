@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anime Rift</string>
+    <string name="home">الرئيسية</string>
+    <string name="search">البحث</string>
+    <string name="downloads">التحميلات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="anime_library">مكتبة الأنمي</string>
+    <string name="continue_watching">متابعة المشاهدة</string>
+    <string name="popular_today">الأكثر مشاهدة اليوم</string>
+    <string name="search_query_hint">ابحث عن اسم الأنمي أو الحلقة…</string>
+    <string name="torrent_results">نتائج التورنت</string>
+    <string name="seeders">Seeders</string>
+    <string name="quality">الجودة</string>
+    <string name="size">الحجم</string>
+    <string name="play">تشغيل</string>
+    <string name="download">تحميل</string>
+    <string name="save_to_library">حفظ في المكتبة</string>
+    <string name="subtitle">الترجمة</string>
+    <string name="settings_auto_subtitle">تحميل الترجمة العربية تلقائياً</string>
+    <string name="settings_download_notifications">إشعارات التحميل</string>
+    <string name="settings_dark_mode">الوضع الداكن</string>
+    <string name="empty_downloads">لا توجد عناصر في قائمة التحميلات</string>
+    <string name="error_network">حدثت مشكلة في الشبكة</string>
+    <string name="error_no_results">لا توجد نتائج</string>
+</resources>

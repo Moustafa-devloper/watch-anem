@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_bg">#0A0E14</color>
+    <color name="dark_surface">#121A24</color>
+    <color name="cyan_primary">#00E5FF</color>
+    <color name="purple_primary">#B388FF</color>
+    <color name="purple_secondary">#8E6CEB</color>
+    <color name="card_bg">#111827</color>
+    <color name="text_primary">#F5F7FF</color>
+    <color name="text_secondary">#A7B3C9</color>
+    <color name="accent_green">#4ADE80</color>
+    <color name="accent_red">#FF5A5F</color>
+    <color name="transparent">#00000000</color>
+</resources>

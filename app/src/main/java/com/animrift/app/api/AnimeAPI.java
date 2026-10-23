@@ -1,0 +1,7 @@
+package com.animrift.app.api;
+
+public class AnimeAPI {
+    public static String getDefaultBanner() {
+        return "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c";
+    }
+}
